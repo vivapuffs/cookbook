@@ -1,0 +1,46 @@
++++
+title = "Loaded Couscous Bowls"
++++
+<h2>Recipe Info</h2>
+<div><b>Servings:</b>TODO</div>
+
+<h2>Ingredients</h2>
+<ul>
+<li>1 can chickpeas</li>
+<li>1 cup pearl couscous</li> 
+<li>1 large (2 small) sweet potato(es)</li>
+<li>1 zucchini</li>
+<li>1 lemon</li>
+<li>fresh parsley (just put as much or as little as you want)</li>
+<li>1/2 cup feta cheese</li>
+<li>tahini lemon sauce (2tbsp tahini, 2tbsp mayo, 1tsp lemon juice, pinch salt)</li>
+<li>garlic spread (recipe follows)</li>
+</ul>
+
+<h2>Instructions</h2>
+<b>Garlic Spread:</b>
+<ol>
+<li>preheat oven to 350f</li>
+<li>slice off top of garlic head (try to leave as much on the bottom "half" as possible). discard top half</li>
+<li>wrap in aluminum foil in a way where you can expose the top easily</li>
+<li>pour in a small amount of oil (maybe 1tsp)</li>
+<li>close aluminum foil and roast for 45 min</li>
+<li>remove garlic cloves and put them in a bowl</li>
+<li>mix with a fork to turn into a paste. add 1 tablespoon butter and any herbs you like</li>
+</ol>
+<ol>
+<li>preheat oven to 450f</li>
+<li>rinse, drain, and dry chickpeas. line a baking sheet with aluminum foil and add chickpeas, 1tbsp oil, seasoning (garlic powder, onion powder, dill, salt, red pepper flakes) and toss to coat.</li>
+<li>put the chickpeas in the oven for ~25 min (or until slightly crispy)</li>
+<li>while the chickpeas roast, prepare the vegetables. peel the sweet potatoes and cut them into 1/4th inch pieces, half the zucchini lengthwise and cut into 1/2 inch slices. mince parsley</li>
+<li>line a baking sheet with aluminum foil and add the sweet potatoes, zucchini, 1tbsp of oil, and seasoning (garlic powder, onion powder, dill, salt, red pepper flakes).</li>
+<li>put the vegetables in the oven for 16-18 min (check sweet potatoes with a fork)</li>
+<li>cook 1 cup of pearled couscous according to package instructions. strain and return to pot.</li>
+<li>add garlic spread, lemon zest (or just a squeeze of lemon,) parsley, and a little salt to the pot.</li>
+<li>stir to combine and add the roasted vegetables and chickpeas once everything is combined</li>
+
+<li>to serve, drizzle with lemon tahini sauce, top with crumbled feta, and squeeze lemon over top.</li>
+</ol>
+
+<h2>Notes</h2>
+This is <b>really</b> filling.

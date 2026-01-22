@@ -14,9 +14,8 @@ title = "English Muffin Breakfast Sandwiches"
 
 <h2>Instructions</h2>
 <ol>
-  <li>make the food</li>
-  <li>eat the food</li>
+  <li>TODO</li>
 </ol>
 
 <h2>Notes</h2>
-it's good
+TODO
