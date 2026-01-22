@@ -10,7 +10,7 @@ title = "Sundried Tomato Pasta"
   <li>shallots</li>
   <li>heavy cream (35%)</li>
   <li>spinach</li>
-  <li>pasta of choice (i like rigatoni)</li>
+  <li>pasta of choice (i like rotini)</li>
 </ul>
 
 <h2>Instructions</h2>
