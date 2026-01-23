@@ -24,7 +24,7 @@ title = "Stir Fried Peanut Noodles"
 
 <h2>Instructions</h2>
 <ol>
-  <li>TODO</li>
+  <li>combine 1/2 cup peanut butter, 3 tbsp fish sauce, 3 tbsp soy sauce, 4 tsp sugar, 4 tsp cornflour / corn starch, 1 head roast garlic, 1 tsp ginger powder, and 3 tbsp red thai curry paste in a bowl and mix (if it is too thick you can microwave it for 15-30 seconds to loosen it up a bit.) add 1/2 cup water, mix, and set aside</li>
 </ol>
 
 <h2>Notes</h2>
