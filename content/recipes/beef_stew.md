@@ -2,7 +2,7 @@
 title = "Beef Stew"
 +++
 <h2>Recipe Info</h2>
-<div><b>Servings:</b>6? maybe 8</div>
+<div><b>Servings:</b> 6? maybe 8</div>
 
 <h2>Ingredients</h2>
 <ul>

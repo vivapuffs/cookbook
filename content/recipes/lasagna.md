@@ -2,7 +2,7 @@
 title = "Lasagna"
 +++
 <h2>Recipe Info</h2>
-<div><b>Servings:</b>12</div>
+<div><b>Servings:</b> 12</div>
 
 <b>you need a 9x13 casserole dish to make this</b> so either get one or get one of those single use foil ones from the grocery store
 
