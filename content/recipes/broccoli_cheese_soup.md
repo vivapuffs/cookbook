@@ -9,7 +9,7 @@ title = "Broccoli Cheese Soup"
 <li>3 tablespoons butter</li>
 <li>1 medium onion (i prefer vidalia/sweet but white or spanish works too)</li>
 <li>2 carrots</li>
-<li>1 head garlic</li>
+<li>1 head roast garlic (or 4 cloves minced garlic)</li>
 <li>1/4 cup all-purpose flour</li>
 <li>3 cups chicken stock</li>
 <li>2 cup milk</li>
@@ -20,7 +20,7 @@ title = "Broccoli Cheese Soup"
 
 <h2>Instructions</h2>
 <ol>
-<li>mince the garlic, set aside. dice the onion, set aside. slice the carrots into thin discs, set aside along with the onion. if not already, cut the broccoli into small florets.</li>
+<li>dice the onion, set aside. slice the carrots into thin discs, set aside along with the onion. if not already, cut the broccoli into small florets.</li>
 <li>grate the cheese.</li>
 <li>heat the butter in a large pot over medium heat.</li>
 <li>once the butter is melted, add the onions and carrots. stir occasionally.</li>
@@ -33,4 +33,4 @@ title = "Broccoli Cheese Soup"
 </ol>
 
 <h2>Notes</h2>
-I have had the most success with using Kirkland brand cheddar cheese. I find grocery store brands (like Black Diamond) don't melt very well and tend to clump at the bottom of the pot. Cubed potatoes (added in after the milk and mustard, before the cheese) as well as bacon bits go great with this soup.
+i have had the most success with using kirkland brand cheddar cheese. i find grocery store brands (like black diamond) don't melt very well and tend to clump at the bottom of the pot. cubed potatoes (added in after the milk and mustard, before the cheese) as well as bacon bits go great in this soup if you want to make it more filling. 

@@ -15,7 +15,7 @@ title = "Thai Coconut Curry"
   <li>450g chicken thigh</li>
   <li>3 teaspoons ginger (1 tablespoon minced/grated fresh ginger is fine as well)</li>
   <li>800mL coconut milk (should be about 2 cans)</li>
-  <li>3 tablespoons thai red curry paste (i like mae ploy brand. do not get thai kitchen brand it is ass)</li>
+  <li>2 tablespoons thai red curry paste (i like mae ploy brand. do not get thai kitchen brand it is ass)</li>
 </ul>
 
 <h2>Instructions</h2>

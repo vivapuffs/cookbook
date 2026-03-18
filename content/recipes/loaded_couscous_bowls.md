@@ -14,13 +14,19 @@ title = "Loaded Couscous Bowls"
 <li>fresh parsley (just put as much or as little as you want)</li>
 <li>1/2 cup feta cheese</li>
 <li>tahini lemon sauce (2tbsp tahini, 2tbsp mayo, 1tsp lemon juice, pinch salt)</li>
-<li>garlic spread (recipe follows)</li>
+<li>garlic spread: (recipe follows)</li>
+    <ul>
+    <li>1 head garlic</li>
+    <li>1 tsp olive oil (canola also works)</li>
+    <li>1 tbsp butter</li>
+    <li>herbs of your choice (i use parsley)</li>
+    </ul>
 </ul>
 
 <h2>Instructions</h2>
 <b>Garlic Spread:</b>
 <ol>
-<li>preheat oven to 350f</li>
+<li>preheat oven to 350˚f</li>
 <li>slice off top of garlic head (try to leave as much on the bottom "half" as possible). discard top half</li>
 <li>wrap in aluminum foil in a way where you can expose the top easily</li>
 <li>pour in a small amount of oil (maybe 1tsp)</li>
@@ -29,7 +35,8 @@ title = "Loaded Couscous Bowls"
 <li>mix with a fork to turn into a paste. add 1 tablespoon butter and any herbs you like</li>
 </ol>
 <ol>
-<li>preheat oven to 450f</li>
+<b>The Rest of the Fucking Food:</b>
+<li>preheat oven to 425˚f</li>
 <li>rinse, drain, and dry chickpeas. line a baking sheet with aluminum foil and add chickpeas, 1tbsp oil, seasoning (garlic powder, onion powder, dill, salt, red pepper flakes) and toss to coat.</li>
 <li>put the chickpeas in the oven for ~25 min (or until slightly crispy)</li>
 <li>while the chickpeas roast, prepare the vegetables. peel the sweet potatoes and cut them into 1/4th inch pieces, half the zucchini lengthwise and cut into 1/2 inch slices. mince parsley</li>
@@ -43,4 +50,4 @@ title = "Loaded Couscous Bowls"
 </ol>
 
 <h2>Notes</h2>
-This is <b>really</b> filling.
+this is <b>really</b> filling. i've added sundried tomatoes before and it was pretty good, you could definitely add other roast vegetables too
